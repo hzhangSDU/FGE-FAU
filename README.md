@@ -192,21 +192,6 @@ To adapt the example, add a dataset configuration with the file path and input d
 
 </details>
 
-## Citation
-
-If you use this work, please cite the manuscript. Until a formal publication record is available, use an unpublished-manuscript entry:
-
-```bibtex
-@unpublished{zhang2026fgefau,
-  author = {Zhang, Hui and Peng, Wei and Li, Chengdong and Sun, Bo
-            and Wei, Qinglai and Wang, Jian},
-  title  = {Efficient Training of {TSK} Fuzzy Systems via Forward
-            Gradient Estimation and Factored Adaptive Updates},
-  year   = {2026},
-  note   = {Manuscript submitted to IEEE Transactions on Fuzzy Systems}
-}
-```
-
 ## Acknowledgments
 
 The source code credits [Dongrui Wu's MBGD-RDA implementation](https://github.com/drwuHUST/MBGD_RDA) for the DropRule and rule-index utilities.
