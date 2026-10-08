@@ -4,7 +4,7 @@
 
 ### Efficient Training of TSK Fuzzy Systems via<br>Forward Gradient Estimation and Factored Adaptive Updates
 
-**Hui Zhang · Wei Peng · Chengdong Li · Bo Sun · Qinglai Wei · Jian Wang**
+**Hui Zhang · Wei Peng (Member, IEEE) · Chengdong Li (Member, IEEE) · Bo Sun (Member, IEEE) · Qinglai Wei (Senior Member, IEEE) · Jian Wang (Senior Member, IEEE)**
 
 **Submitted to IEEE Transactions on Fuzzy Systems (TFS)**
 
