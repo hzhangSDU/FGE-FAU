@@ -6,6 +6,8 @@
 
 **Submitted to IEEE Transactions on Fuzzy Systems (TFS)**
 
+**Hui Zhang · Wei Peng (Member, IEEE) · Chengdong Li (Member, IEEE) · Bo Sun (Member, IEEE) · [Qinglai Wei](https://ia.cas.cn/rcdw/yxqnjj/202404/t20240425_7131816.html) (Senior Member, IEEE) · [Jian Wang](https://sci.upc.edu.cn/2016/0926/c6857a96109/page.htm) (Senior Member, IEEE)**
+
 ![Framework](https://img.shields.io/badge/Framework-PyTorch-EE4C2C?style=flat-square)
 ![Task](https://img.shields.io/badge/Task-Regression-2563EB?style=flat-square)
 ![Status](https://img.shields.io/badge/Paper-Submitted-D97706?style=flat-square)
